@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+anthropic
+python-dotenv
+pydantic
+httpx
+python-multipart
+google-generativeai
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+beautifulsoup4
+supabase
+pypdf
+requests
+apscheduler
